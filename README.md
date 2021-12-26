@@ -1,4 +1,4 @@
-[CityClicker](http://johntoopublic.github.io/cityclicker/) [![weekly users](https://analytics-badge.appspot.com/badge/UA-50859182-2.svg)](https://analytics-badge.appspot.com/)
+[CityClicker](http://ivorybishop.github.io/cityclicker/) [![weekly users](https://.com/badge/UA-50859182-2.svg)](https://.com/)
 ===========
 
 A Javascript incremental city building game, inspired by SimCity.
